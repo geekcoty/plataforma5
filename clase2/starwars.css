@@ -1,0 +1,22 @@
+.theEmpire{
+  background-color: red;
+}
+.rebelScum{
+  background-color: blue;
+}
+#anakin{
+  font-size: 48px;
+}
+#twoSuns{
+  font-style: italic;
+}
+.troops{
+  border-style: dashed;
+  letter-spacing: 5px;
+}
+.apoyo{
+  text-align: center;
+}
+.spaceships{
+  text-transform:uppercase;
+}
