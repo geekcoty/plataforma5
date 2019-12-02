@@ -1,0 +1,13 @@
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+img{
+  width: 30%;
+  margin: 1.4%;
+}
+h1{
+  text-transform:lowercase;
+  border-bottom: 2px solid black;
+  font-family: 'Big Shoulders Display', cursive;
+}
