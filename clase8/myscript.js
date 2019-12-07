@@ -11,6 +11,6 @@ numeroSecreto==="3"
 var password=prompt("Ingrese su password")
 if (password ==="gatites") {alert("Bienvenides!")
 
-} else {alert("You shall not pass!")
+} else { window.location = "http://www.google.com"
 
 }
