@@ -14,3 +14,12 @@ if (password ==="gatites") {alert("Bienvenides!")
 } else { window.location = "http://www.google.com"
 
 }
+
+var edad= prompt("Cual es tu edad?")
+if (edad <=0)
+  {alert("No podes cumplir en negativo")
+
+} else {alert("Feliz cumple! Adelante, eres bienvenido!")
+if (edad % 2 !== 0) {alert("Tu edad es impar")
+}
+}
