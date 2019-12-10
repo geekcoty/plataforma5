@@ -23,3 +23,10 @@ if (edad <=0)
 if (edad % 2 !== 0) {alert("Tu edad es impar")
 }
 }
+var numero=prompt("Adivina el numero")
+var secretNumber=Number(numero)
+if (secretNumber===8) {alert("Adivinaste")
+
+} else { alert("Raja de aca")
+
+}
